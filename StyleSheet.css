@@ -1,0 +1,76 @@
+body {
+    box-sizing: border-box;
+    background-color:#F5F5F5;
+}
+
+p not:#retailHead {
+    color: #ADADAD;
+}
+
+#mainDiv {
+    padding: 15px;
+    margin: auto;
+    width: 300px;
+    background-color: white;
+    flex-direction: column;
+}
+
+#nikeIcon {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: inline-flex;
+    margin-right: 10px;
+}
+
+#tileHead {
+    display: inline-flex;
+    margin-left: 10px;
+}
+
+#nikeShoe {
+    height: 200px;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#retailHead {
+    display: inline;
+}
+
+#timestamp {
+    display: inline;
+    margin-left: 200px;
+    color: #CCCCCC;
+}
+
+#locationIcon {
+    height: 25px;
+    width: 23px;
+    display: inline-flex;
+}
+
+.button {
+    background-color: #EBF9EC;
+    border: none;
+    color: #59D881;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 2px 2px;
+}
+
+.button1, .button2 {
+    border-radius: 8px;
+}
+
+#description {
+    background-color: #FAFBFC;
+    color: #555555;
+}
+
+#widgetEx {
+    width: 200px;
+}
